@@ -1,0 +1,2 @@
+Gracias por leerme proximamente en este documento leeras como integrar, trabajar git en 
+la IDE de Netbeans :)
